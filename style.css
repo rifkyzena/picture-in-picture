@@ -1,0 +1,13 @@
+html{
+    box-sizing: border-box;
+}
+/* full stretch basic biar websitenya penuh*/
+/* semua project nanti copy basicnya dari ini */
+body{
+    margin: 0;
+    min-height: 100vh;
+    /* viewport height */  
+
+    /* inspect element bisa buat ganti ganti value tinggal check uncheck */
+}
+
