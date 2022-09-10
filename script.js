@@ -1,5 +1,11 @@
-console.log('testing');
-// perkuat devtools, bakal sering buka buka terus
-// inspect element check network, check console, bisa liat macem macem
+const videoElement = document.getElementById('video');
+const button = document.getElementById('button');
 
-// new terminal caranya git init, git add ., git commit + message, git push origin master
+// Prompt to select media stream, pass to video element, then play
+async function selectMediaStream(){
+    try {
+        
+    } catch (error) {
+        
+    }
+}
